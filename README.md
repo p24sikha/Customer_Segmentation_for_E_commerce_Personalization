@@ -28,7 +28,7 @@ The outcome is a tool that helps e-commerce platforms provide a more targeted an
 
 To access the dataset used in this project, please follow the link below:
 
-[Customer Data for Segmentation](#)
+[Customer Data for Segmentation](https://drive.google.com/file/d/1ylshB03y9-tTsGkxi00c5j5E5P-Vbgdr/view?usp=sharing)
 
 *Note: Replace `#` with the actual URL to your dataset.*
 
