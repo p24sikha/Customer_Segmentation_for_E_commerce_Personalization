@@ -19,9 +19,9 @@ The outcome is a tool that helps e-commerce platforms provide a more targeted an
 
 ## Visualization
 
-![Dashboard Screenst](K-meansClustering.JPG)
+![Dashboard Screenst](K-meansClustering.PNG)
 
-![Dashboard Screenshot](customerSegmentPCA.JPG)
+![Dashboard Screenshot](customerSegmentPCA.PNG)
 
 
 ## Dataset
@@ -32,7 +32,7 @@ To access the dataset used in this project, please follow the link below:
 
 *Note: Replace `#` with the actual URL to your dataset.*
 
-![Dashboard Screenshot](heatMap.JPG)
+![Dashboard Screenshot](heatMap.PNG)
 
 ## Getting Started
 
