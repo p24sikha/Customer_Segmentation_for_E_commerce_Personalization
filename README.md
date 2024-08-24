@@ -17,6 +17,13 @@ In the competitive world of e-commerce, personalization is essential for retaini
 
 The outcome is a tool that helps e-commerce platforms provide a more targeted and relevant customer experience, thereby increasing customer satisfaction and conversion rates.
 
+## Visualization
+
+![Dashboard Screenst](K-meansClustering.JPG)
+
+![Dashboard Screenshot](customerSegmentPCA.JPG)
+
+
 ## Dataset
 
 To access the dataset used in this project, please follow the link below:
@@ -24,6 +31,8 @@ To access the dataset used in this project, please follow the link below:
 [Customer Data for Segmentation](#)
 
 *Note: Replace `#` with the actual URL to your dataset.*
+
+![Dashboard Screenshot](heatMap.JPG)
 
 ## Getting Started
 
@@ -89,10 +98,7 @@ Future work could involve experimenting with different clustering algorithms and
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or inquiries, please contact [your email address].
+For any questions or inquiries, please contact [pallavisikha122@gmail.com].
